@@ -56,7 +56,7 @@ By downloading or using any MGX INTERACTIVE project, you agree that:
 Some projects may contain:
 - flashing lights and fast movement (epilepsy warning),
 - strong language,
-- horror or unsettling themes,
+- horror or unsettling themes.
 
 User discretion is advised.
 
