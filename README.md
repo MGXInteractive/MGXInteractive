@@ -57,7 +57,6 @@ Some projects may contain:
 - flashing lights and fast movement (epilepsy warning),
 - strong language,
 - horror or unsettling themes,
-- simulated system errors or fake virus effects.
 
 User discretion is advised.
 
